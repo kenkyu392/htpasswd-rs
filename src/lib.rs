@@ -32,7 +32,7 @@ pub fn parse(text: &str) -> IndexMap<&str, &str> {
     return map;
 }
 
-/// Transform the IndexMap of user/password pairs as create a htpasswd string with header info or not.
+/// Transform the IndexMap of user/password pairs as create a htpasswd string.
 ///
 /// # Examples
 ///
