@@ -1,6 +1,6 @@
 [package]
 name = "htpasswd"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["kenkyu392 <57144941+kenkyu392@users.noreply.github.com>", "Damien Fernandes <damienfern@users.noreply.github.com>" ]
 edition = "2018"
 readme = "README.md"
